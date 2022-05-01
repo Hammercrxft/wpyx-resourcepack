@@ -1,4 +1,4 @@
 # wpyx-resourcepack
-WeaponryX's default assets.
+~~WeaponryX's~~ HGear's default assets.
 
-[See the plugin here.](https://github.com/Hammercrxft/hammercroft-WeaponryX)
+[See the plugin here.](https://github.com/Hammercrxft/HGear)
